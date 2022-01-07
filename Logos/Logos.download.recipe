@@ -21,7 +21,7 @@
 			<key>Arguments</key>
 			<dict>
 				<key>filename</key>
-				<string>%NAME%.dmg</string>
+				<string>URL</string>
 				<key>url</key>https://files.logoscdn.com/v1/files/4297041/assets/841779/content.svg?signature=7w3NvovmuoS0kzenDFbmfECN34o</string>
 			</dict>
 			<key>Processor</key>
