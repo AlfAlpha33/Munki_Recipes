@@ -3,9 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-	<string>Downloads the current version of Logos.</string>
-	
-	
+	<string>Downloads the latest version of Logos.</string>
 	<key>Identifier</key>
 	<string>com.github.AlfAlpha1.download.Logos</string>
 	<key>Input</key>
@@ -21,7 +19,7 @@
 	<array>
 		<dict>
 			<key>Processor</key>
-			<string>URLDownloader</string>\
+			<string>URLDownloader</string>
 			<key>Arguments</key>
 			<dict>
 				<key>url</key>
