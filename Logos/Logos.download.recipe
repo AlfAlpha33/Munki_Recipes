@@ -32,6 +32,10 @@
 		</dict>
 		<dict>
 			<key>Processor</key>
+			<string>EndOfCheckPhase</string>
+		</dict>
+		<dict>
+			<key>Processor</key>
 			<string>CodeSignatureVerifier>
 			<key>Arguments</key>
 			<dict>
