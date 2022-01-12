@@ -27,7 +27,7 @@
 					<key>url</key>
 					<string>%DOWNLOAD_URL%</string>
 					<key>filename</key>
-					<string>%Name%.dmg</string>
+					<string>%NAME%.dmg</string>
 			</dict>
 		</dict>
 		<dict>
@@ -44,7 +44,7 @@
 		<dict>
 			
 			<key>Processor</key>
-			<string>Endofcheckkphase</string>
+			<string>EndOfCheckPhase</string>
 		</dict>
 	</array>
 </dict>
