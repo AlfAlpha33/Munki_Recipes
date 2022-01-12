@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-	<string>Downloads the latest version of Logos.</string>
+	<string>Downloads the current version of Logos.</string>
 	
 	
 	<key>Identifier</key>
@@ -27,7 +27,7 @@
 				<key>url</key>
 				<string>%DOWNLOAD_URL%</string>
 				<key>filename</key>
-				<sting>%Name%.dmg</string>
+				<sting>%NAME%.dmg</string>
 			</dict>
 		</dict>
 		<dict>
@@ -43,7 +43,7 @@
 		</dict>
 		<dict>
 			<key>Processor</key>
-			<string>CodeSignatureVerifier</string>
+			<string>EndOfCheckPhase</string>
 		</dict>
 	</array>
 </dict>
