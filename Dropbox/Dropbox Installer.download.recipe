@@ -13,7 +13,7 @@
 		<key>APP_FILENAME</key>
 		<string>Dropbox</string>
 		<key>NAME</key>
-		<string>Dropbox Installer</string>
+		<string>Dropbox</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
